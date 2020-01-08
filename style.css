@@ -34,14 +34,7 @@ img {
 
 }
 
-#topright {
-    position: absolute;
-    right: 0;
-    top: 0;
-    display: block;
-    height: 125px;
-    width: 125px;
-    background: url(TRbanner.gif) no-repeat;
-    text-indent: -999em;
-    text-decoration: none;
+.boxed {
+    border-radius: 15px;
+    border: 3px slategrey;
 }
