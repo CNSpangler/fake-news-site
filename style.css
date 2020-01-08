@@ -1,0 +1,47 @@
+body {
+    background: rgb(188, 226, 250);
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h2 {
+    color: gray;
+    font-size: 45px;
+    font-style: normal;
+}
+
+li {
+    list-style: none;
+    color: navy;
+}
+
+article {
+    background-color: moccasin;
+}
+
+.america {
+    color: red;
+    font-style: bold;
+}
+
+img {
+    border-radius: 15px;
+}
+
+#headimg {
+
+}
+
+#topright {
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: block;
+    height: 125px;
+    width: 125px;
+    background: url(TRbanner.gif) no-repeat;
+    text-indent: -999em;
+    text-decoration: none;
+}
