@@ -37,4 +37,8 @@ img {
 .boxed {
     border-radius: 15px;
     border: 3px slategrey;
+    background-color: tan;
+    padding: 10px;
+    box-sizing: border-box;
+    width: 300px;
 }
