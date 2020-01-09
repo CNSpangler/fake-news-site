@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+}
+
+.nametag {
+    width: 500px;
+    height: 350px;
+    border: solid black 2px;
+    border-radius: 15px;
+    background-color: red;
+}
+
+.front {
+    position: relative;
+    top: 15px;
+    height: 190px;
+    width: 496px;
+    background-color: white;
+}
+
+.words {
+    color: white;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    position: relative;
+}
+
+.hello {
+    font-size: 70px;
+    font-weight: bolder;
+ 
+}
+
+.mynameis {
+    font-size: 30px;
+}
+
+.name {
+    position: relative;
+    top: 10px;
+    font-size: 85px;
+    font-family: fantasy;
+    text-align: center;
+    text-transform: uppercase;
+    color: black;
+}
+
+.title {
+    position: relative;
+    top: 7px;
+    font-size: 45px;
+    font-family: fantasy;
+    text-align: center;
+    text-transform: uppercase;
+    color: black;
+}
