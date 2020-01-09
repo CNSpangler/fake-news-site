@@ -40,5 +40,12 @@ img {
     background-color: tan;
     padding: 10px;
     box-sizing: border-box;
-    width: 300px;
+    width: 250px;
+}
+
+.boxed:hover {
+    height: 260px;
+    width: 260px;
+    background-color: orange;
+    cursor: pointer;
 }
