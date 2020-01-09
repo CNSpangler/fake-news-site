@@ -14,9 +14,8 @@
     position: relative;
     top: 15px;
     height: 190px;
-    width: 500px;
+    width: 496px;
     background-color: white;
-    border: solid black 2px;
 }
 
 .words {
@@ -29,24 +28,29 @@
 .hello {
     font-size: 70px;
     font-weight: bolder;
-    color: white;
-    font-family: Helvetica, sans-serif;
-    text-align: center;
-    position: relative;
+ 
 }
 
 .mynameis {
     font-size: 30px;
-    color: white;
-    font-family: Helvetica, sans-serif;
-    text-align: center;
-    position: relative;
 }
 
 .name {
-    font-size: 5rem;
+    position: relative;
+    top: 10px;
+    font-size: 85px;
     font-family: fantasy;
+    text-align: center;
     text-transform: uppercase;
     color: black;
-    z-index: 5;
+}
+
+.title {
+    position: relative;
+    top: 7px;
+    font-size: 45px;
+    font-family: fantasy;
+    text-align: center;
+    text-transform: uppercase;
+    color: black;
 }
