@@ -30,10 +30,6 @@ img {
     border-radius: 15px;
 }
 
-#headimg {
-
-}
-
 .boxed {
     border-radius: 15px;
     border: 3px slategrey;
@@ -47,5 +43,4 @@ img {
     height: 260px;
     width: 260px;
     background-color: orange;
-    cursor: pointer;
 }
