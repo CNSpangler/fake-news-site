@@ -14,3 +14,4 @@ const changeValue = () => {
 
 // add an event listener to the button
 button.addEventListener('click', changeValue)
+
